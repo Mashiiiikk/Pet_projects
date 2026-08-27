@@ -1,0 +1,381 @@
+"rank_level","profession","region","experience_level","count_prof","avg_salary","min_salary","max_salary"
+1,ML Engineer,Москва,Junior,32,78766,52000,118000
+1,ML Engineer,Москва,Lead,12,330667,222000,445000
+1,ML Engineer,Москва,Middle,51,148245,81000,248000
+1,ML Engineer,Москва,Senior,28,237696,156000,407000
+2,Data Scientist,Москва,Junior,40,76013,43000,126000
+2,Product Manager,Москва,Lead,4,289875,200000,388000
+2,DevOps Engineer,Москва,Middle,59,139508,81000,262000
+2,ML Engineer,Удалённо (Россия),Senior,22,227477,155000,361000
+3,Data Engineer,Москва,Junior,32,73625,43000,102000
+3,Data Scientist,Удалённо (Россия),Lead,5,283100,199000,416000
+3,Data Scientist,Москва,Middle,63,131667,70000,211000
+3,Data Scientist,Москва,Senior,38,223579,142000,328000
+4,DevOps Engineer,Москва,Junior,43,73581,46000,129000
+4,DevOps Engineer,Удалённо (Россия),Lead,12,282708,195000,380000
+4,Data Engineer,Москва,Middle,53,131472,81000,211000
+4,Product Manager,Москва,Senior,27,222167,139000,349000
+5,Product Manager,Москва,Junior,33,71015,39000,99000
+5,Data Engineer,Москва,Lead,15,277033,185000,408000
+5,ML Engineer,Санкт-Петербург,Middle,23,130913,85000,212000
+5,Data Engineer,Москва,Senior,40,219813,144000,358000
+6,ML Engineer,Удалённо (Россия),Junior,31,70419,48000,103000
+6,Data Scientist,Москва,Lead,13,270962,179000,397000
+6,Product Manager,Москва,Middle,45,129522,80000,212000
+6,DevOps Engineer,Москва,Senior,30,218850,147000,321000
+7,Backend Developer,Москва,Junior,66,68659,42000,110000
+7,Mobile Developer,Москва,Lead,8,264750,205000,347000
+7,ML Engineer,Удалённо (Россия),Middle,39,129231,80000,198000
+7,Backend Developer,Москва,Senior,48,207479,115000,301000
+8,Data Scientist,Удалённо (Россия),Junior,28,68625,42000,103000
+8,DevOps Engineer,Москва,Lead,9,260889,188000,343000
+8,DevOps Engineer,Удалённо (Россия),Middle,41,125415,74000,186000
+8,DevOps Engineer,Удалённо (Россия),Senior,28,202482,127000,349000
+9,DevOps Engineer,Удалённо (Россия),Junior,36,68208,42000,100000
+9,ML Engineer,Удалённо (Россия),Lead,4,260750,193000,371000
+9,Data Scientist,Удалённо (Россия),Middle,34,122926,80000,166000
+9,Data Scientist,Удалённо (Россия),Senior,26,200808,115000,302000
+10,Data Engineer,Удалённо (Россия),Junior,27,67926,36000,102000
+10,ML Engineer,Санкт-Петербург,Lead,2,255000,162000,366000
+10,Data Engineer,Удалённо (Россия),Middle,42,120702,76000,185000
+10,DevOps Engineer,Санкт-Петербург,Senior,28,199125,132000,277000
+11,ML Engineer,Санкт-Петербург,Junior,12,64917,43000,92000
+11,Backend Developer,Москва,Lead,20,254000,165000,405000
+11,Full-stack Developer,Москва,Middle,72,119535,77000,205000
+11,Mobile Developer,Москва,Senior,27,197593,145000,263000
+12,Product Manager,Удалённо (Россия),Junior,21,63810,45000,96000
+12,DevOps Engineer,Санкт-Петербург,Lead,6,251500,164000,347000
+12,Backend Developer,Москва,Middle,72,119410,72000,193000
+12,Data Engineer,Удалённо (Россия),Senior,21,194381,126000,327000
+13,Data Scientist,Санкт-Петербург,Junior,18,63778,43000,88000
+13,Full-stack Developer,Москва,Lead,18,247000,183000,344000
+13,Product Manager,Удалённо (Россия),Middle,25,115520,68000,180000
+13,Product Manager,Удалённо (Россия),Senior,16,194031,106000,312000
+14,Data Engineer,Санкт-Петербург,Junior,22,62886,40000,100000
+14,Data Engineer,Санкт-Петербург,Lead,5,243700,161000,324000
+14,Data Engineer,Санкт-Петербург,Middle,24,114000,73000,177000
+14,Data Engineer,Санкт-Петербург,Senior,26,193327,124000,280000
+15,Mobile Developer,Москва,Junior,33,62424,42000,99000
+15,ML Engineer,Новосибирск,Lead,1,243500,214000,273000
+15,Product Manager,Санкт-Петербург,Middle,11,113909,76000,189000
+15,ML Engineer,Санкт-Петербург,Senior,18,193306,110000,319000
+16,Full-stack Developer,Москва,Junior,54,62074,30000,103000
+16,Backend Developer,Удалённо (Россия),Lead,14,242214,164000,365000
+16,DevOps Engineer,Санкт-Петербург,Middle,23,113783,72000,168000
+16,Full-stack Developer,Москва,Senior,57,192342,101000,329000
+17,Product Manager,Санкт-Петербург,Junior,14,61750,44000,85000
+17,Data Scientist,Санкт-Петербург,Lead,5,238600,178000,295000
+17,Mobile Developer,Москва,Middle,59,113076,63000,183000
+17,Data Scientist,Санкт-Петербург,Senior,19,189737,108000,285000
+18,Backend Developer,Удалённо (Россия),Junior,44,61091,35000,100000
+18,Full-stack Developer,Санкт-Петербург,Lead,8,236875,179000,330000
+18,Data Scientist,Санкт-Петербург,Middle,32,112609,77000,209000
+18,Frontend Developer,Москва,Senior,60,177967,111000,307000
+19,System Analyst,Москва,Junior,33,59985,38000,91000
+19,System Analyst,Москва,Lead,6,236417,159000,336000
+19,Frontend Developer,Москва,Middle,66,109371,57000,174000
+19,Backend Developer,Удалённо (Россия),Senior,44,175170,108000,276000
+20,Frontend Developer,Москва,Junior,48,58844,30000,86000
+20,Data Engineer,Удалённо (Россия),Lead,3,236167,192000,283000
+20,Backend Developer,Удалённо (Россия),Middle,60,109050,65000,167000
+20,Mobile Developer,Удалённо (Россия),Senior,21,174286,102000,241000
+21,Full-stack Developer,Удалённо (Россия),Junior,33,57864,35000,92000
+21,Mobile Developer,Санкт-Петербург,Lead,6,233833,153000,334000
+21,System Analyst,Москва,Middle,42,108821,73000,163000
+21,Full-stack Developer,Удалённо (Россия),Senior,37,173432,120000,274000
+22,DevOps Engineer,Санкт-Петербург,Junior,17,57029,37000,86000
+22,Product Manager,Удалённо (Россия),Lead,4,231500,198000,264000
+22,Mobile Developer,Удалённо (Россия),Middle,32,108281,66000,184000
+22,System Analyst,Москва,Senior,30,170700,110000,249000
+23,Data Analyst,Москва,Junior,66,56750,33000,87000
+23,Product Manager,Санкт-Петербург,Lead,1,230000,203000,257000
+23,Backend Developer,Санкт-Петербург,Middle,38,105868,63000,153000
+23,Data Analyst,Москва,Senior,58,168534,102000,246000
+24,Mobile Developer,Удалённо (Россия),Junior,38,56461,38000,91000
+24,Backend Developer,Санкт-Петербург,Lead,8,229938,178000,304000
+24,Full-stack Developer,Удалённо (Россия),Middle,44,103511,63000,158000
+24,Product Manager,Санкт-Петербург,Senior,17,167559,110000,225000
+25,Mobile Developer,Санкт-Петербург,Junior,14,56250,37000,79000
+25,Frontend Developer,Москва,Lead,17,228412,171000,321000
+25,ML Engineer,Новосибирск,Middle,14,101964,61000,143000
+25,Backend Developer,Санкт-Петербург,Senior,23,166304,123000,257000
+26,Backend Developer,Санкт-Петербург,Junior,31,54500,31000,86000
+26,Data Analyst,Москва,Lead,23,226065,131000,328000
+26,Data Analyst,Москва,Middle,74,101824,55000,170000
+26,Mobile Developer,Санкт-Петербург,Senior,16,164156,102000,221000
+27,Full-stack Developer,Санкт-Петербург,Junior,18,53917,39000,84000
+27,Full-stack Developer,Удалённо (Россия),Lead,7,222643,176000,304000
+27,Full-stack Developer,Санкт-Петербург,Middle,32,98188,56000,151000
+27,System Analyst,Удалённо (Россия),Senior,24,159688,102000,234000
+28,System Analyst,Удалённо (Россия),Junior,29,53103,33000,76000
+28,System Analyst,Санкт-Петербург,Lead,5,216800,169000,284000
+28,Mobile Developer,Санкт-Петербург,Middle,27,96093,62000,155000
+28,Data Analyst,Удалённо (Россия),Senior,30,159067,110000,264000
+29,Frontend Developer,Удалённо (Россия),Junior,35,52514,31000,73000
+29,Mobile Developer,Удалённо (Россия),Lead,4,216125,165000,283000
+29,DevOps Engineer,Новосибирск,Middle,11,95773,64000,131000
+29,Full-stack Developer,Санкт-Петербург,Senior,15,158267,98000,230000
+30,ML Engineer,Новосибирск,Junior,9,52278,35000,76000
+30,ML Engineer,Нижний Новгород,Lead,1,209500,182000,237000
+30,Frontend Developer,Удалённо (Россия),Middle,49,94684,59000,158000
+30,Frontend Developer,Удалённо (Россия),Senior,40,155625,98000,243000
+31,Data Scientist,Новосибирск,Junior,16,51813,39000,73000
+31,Frontend Developer,Удалённо (Россия),Lead,11,207273,148000,278000
+31,ML Engineer,Нижний Новгород,Middle,5,94100,71000,137000
+31,Data Scientist,Екатеринбург,Senior,8,155188,101000,227000
+32,Data Analyst,Удалённо (Россия),Junior,36,51278,30000,78000
+32,System Analyst,Удалённо (Россия),Lead,6,200667,166000,249000
+32,System Analyst,Удалённо (Россия),Middle,28,93982,52000,143000
+32,System Analyst,Санкт-Петербург,Senior,11,149273,85000,241000
+33,System Analyst,Санкт-Петербург,Junior,15,51067,30000,65000
+33,Data Analyst,Удалённо (Россия),Lead,9,198389,136000,317000
+33,Product Manager,Екатеринбург,Middle,9,92111,68000,119000
+33,Data Scientist,Новосибирск,Senior,9,148667,114000,201000
+34,Frontend Developer,Санкт-Петербург,Junior,28,50661,30000,75000
+34,DevOps Engineer,Новосибирск,Lead,4,194750,148000,254000
+34,Frontend Developer,Санкт-Петербург,Middle,37,91216,57000,136000
+34,Frontend Developer,Санкт-Петербург,Senior,19,147711,93000,207000
+35,Data Engineer,Екатеринбург,Junior,7,49429,38000,63000
+35,Data Analyst,Санкт-Петербург,Lead,8,193188,148000,289000
+35,Data Analyst,Удалённо (Россия),Middle,69,91210,50000,142000
+35,ML Engineer,Екатеринбург,Senior,9,147278,101000,194000
+36,Data Scientist,Казань,Junior,10,49250,30000,73000
+36,QA Engineer,Москва,Lead,17,193118,131000,322000
+36,ML Engineer,Казань,Middle,8,89750,66000,124000
+36,Product Manager,Казань,Senior,4,147125,106000,227000
+37,ML Engineer,Нижний Новгород,Junior,6,48833,38000,62000
+37,Data Scientist,Новосибирск,Lead,2,191500,153000,230000
+37,ML Engineer,Екатеринбург,Middle,10,89300,64000,120000
+37,Data Engineer,Новосибирск,Senior,5,146000,109000,211000
+38,DevOps Engineer,Новосибирск,Junior,13,48577,34000,72000
+38,ML Engineer,Екатеринбург,Lead,3,191167,131000,243000
+38,Data Scientist,Нижний Новгород,Middle,8,88875,62000,120000
+38,ML Engineer,Новосибирск,Senior,8,145313,96000,193000
+39,ML Engineer,Краснодар,Junior,5,48500,35000,65000
+39,Data Scientist,Казань,Lead,3,184833,150000,219000
+39,Data Analyst,Санкт-Петербург,Middle,46,87674,51000,142000
+39,DevOps Engineer,Казань,Senior,4,144875,78000,193000
+40,ML Engineer,Екатеринбург,Junior,8,48375,31000,74000
+40,QA Engineer,Удалённо (Россия),Lead,10,182700,130000,274000
+40,Backend Developer,Новосибирск,Middle,12,87667,64000,122000
+40,Data Analyst,Санкт-Петербург,Senior,25,144860,87000,216000
+41,Data Scientist,Екатеринбург,Junior,12,47792,33000,64000
+41,Frontend Developer,Санкт-Петербург,Lead,11,182500,125000,267000
+41,Data Engineer,Новосибирск,Middle,10,87650,63000,115000
+41,ML Engineer,Казань,Senior,4,142375,109000,205000
+42,QA Engineer,Москва,Junior,42,46310,30000,76000
+42,DevOps Engineer,Екатеринбург,Lead,2,182000,159000,205000
+42,System Analyst,Санкт-Петербург,Middle,29,86983,59000,138000
+42,DevOps Engineer,Новосибирск,Senior,7,139929,106000,183000
+43,Product Manager,Екатеринбург,Junior,4,46250,31000,65000
+43,Backend Developer,Екатеринбург,Lead,5,174300,122000,243000
+43,Data Scientist,Новосибирск,Middle,16,86188,59000,131000
+43,DevOps Engineer,Нижний Новгород,Senior,4,139375,112000,173000
+44,Data Engineer,Новосибирск,Junior,8,45875,30000,72000
+44,Product Manager,Новосибирск,Lead,2,173250,136000,225000
+44,QA Engineer,Москва,Middle,55,85664,51000,131000
+44,QA Engineer,Москва,Senior,45,137678,81000,224000
+45,Data Analyst,Санкт-Петербург,Junior,32,45641,32000,69000
+45,Full-stack Developer,Екатеринбург,Lead,2,172750,133000,205000
+45,DevOps Engineer,Екатеринбург,Middle,21,85190,56000,124000
+45,Data Scientist,Краснодар,Senior,9,133944,104000,177000
+46,Product Manager,Казань,Junior,6,45000,32000,60000
+46,Product Manager,Новосибирск,Junior,4,45000,34000,63000
+46,Data Engineer,Екатеринбург,Lead,2,169500,124000,223000
+46,Product Manager,Новосибирск,Middle,8,82188,54000,132000
+46,DevOps Engineer,Екатеринбург,Senior,8,133500,83000,203000
+47,Data Scientist,Краснодар,Lead,2,168750,140000,211000
+47,Product Manager,Казань,Middle,9,81167,54000,109000
+47,ML Engineer,Нижний Новгород,Senior,4,132875,102000,158000
+48,DevOps Engineer,Казань,Junior,11,44909,30000,61000
+48,Data Engineer,Казань,Lead,4,166875,121000,213000
+48,Product Manager,Нижний Новгород,Middle,10,79950,57000,117000
+48,Data Engineer,Екатеринбург,Senior,11,129773,89000,185000
+49,DevOps Engineer,Екатеринбург,Junior,7,44857,30000,69000
+49,Mobile Developer,Новосибирск,Lead,4,165625,140000,198000
+49,Data Scientist,Казань,Middle,10,79750,60000,103000
+49,Backend Developer,Новосибирск,Senior,13,129500,91000,176000
+50,DevOps Engineer,Краснодар,Junior,4,44625,32000,66000
+50,Mobile Developer,Екатеринбург,Lead,4,164875,130000,219000
+50,DevOps Engineer,Казань,Middle,9,79611,58000,115000
+50,Product Manager,Нижний Новгород,Senior,4,126500,86000,179000
+51,QA Engineer,Удалённо (Россия),Junior,31,43452,30000,68000
+51,Data Scientist,Екатеринбург,Lead,4,164125,130000,224000
+51,Data Engineer,Казань,Middle,8,79375,54000,99000
+51,Data Scientist,Нижний Новгород,Senior,7,126357,80000,179000
+52,Mobile Developer,Новосибирск,Junior,11,42864,31000,58000
+52,ML Engineer,Казань,Lead,1,163500,147000,180000
+52,Data Scientist,Екатеринбург,Middle,14,79286,56000,104000
+52,Full-stack Developer,Екатеринбург,Senior,18,125389,72000,220000
+53,Data Engineer,Краснодар,Junior,7,42429,32000,57000
+53,Full-stack Developer,Нижний Новгород,Lead,3,162667,127000,206000
+53,Backend Developer,Екатеринбург,Middle,18,78333,48000,129000
+53,Full-stack Developer,Краснодар,Senior,7,124929,71000,172000
+54,DevOps Engineer,Нижний Новгород,Junior,11,42409,30000,65000
+54,Data Engineer,Нижний Новгород,Lead,2,162250,129000,197000
+54,DevOps Engineer,Нижний Новгород,Middle,9,78222,57000,105000
+54,Mobile Developer,Екатеринбург,Senior,4,124875,103000,145000
+55,Data Engineer,Казань,Junior,10,42000,33000,51000
+55,Frontend Developer,Екатеринбург,Lead,6,158167,121000,241000
+55,Data Engineer,Екатеринбург,Middle,13,77654,52000,116000
+55,Data Scientist,Казань,Senior,7,124857,86000,164000
+56,Backend Developer,Казань,Junior,16,41125,30000,57000
+56,QA Engineer,Санкт-Петербург,Lead,5,157000,115000,245000
+56,DevOps Engineer,Краснодар,Middle,12,77500,52000,123000
+56,Product Manager,Екатеринбург,Senior,1,124000,114000,134000
+57,Backend Developer,Новосибирск,Junior,14,41000,30000,56000
+57,Backend Developer,Казань,Lead,5,156200,107000,197000
+57,Full-stack Developer,Новосибирск,Middle,16,77281,57000,111000
+57,Data Engineer,Краснодар,Senior,3,123667,99000,153000
+58,Data Scientist,Нижний Новгород,Junior,6,40917,30000,51000
+58,Backend Developer,Новосибирск,Lead,1,155000,136000,174000
+58,Mobile Developer,Екатеринбург,Middle,10,76000,40000,128000
+58,Data Engineer,Казань,Senior,4,123625,95000,166000
+59,Full-stack Developer,Новосибирск,Junior,4,40750,31000,52000
+59,System Analyst,Краснодар,Lead,1,154500,139000,170000
+59,Backend Developer,Нижний Новгород,Middle,18,75778,50000,118000
+59,QA Engineer,Удалённо (Россия),Senior,28,122071,72000,199000
+60,Mobile Developer,Екатеринбург,Junior,10,40300,30000,60000
+60,Product Manager,Нижний Новгород,Lead,1,154000,134000,174000
+60,ML Engineer,Краснодар,Middle,5,75300,64000,86000
+60,Product Manager,Новосибирск,Senior,4,121375,76000,169000
+61,Data Engineer,Нижний Новгород,Junior,6,40083,30000,53000
+61,Full-stack Developer,Казань,Lead,6,152833,102000,243000
+61,QA Engineer,Санкт-Петербург,Middle,32,74406,53000,132000
+61,Mobile Developer,Новосибирск,Senior,11,117773,83000,160000
+62,Backend Developer,Екатеринбург,Junior,14,39857,30000,55000
+62,Full-stack Developer,Краснодар,Lead,3,152333,103000,221000
+62,QA Engineer,Удалённо (Россия),Middle,40,72525,45000,103000
+62,Full-stack Developer,Казань,Senior,5,117600,97000,152000
+63,QA Engineer,Санкт-Петербург,Junior,20,39250,30000,63000
+63,DevOps Engineer,Казань,Lead,1,150000,131000,169000
+63,System Analyst,Казань,Lead,1,150000,128000,172000
+63,Backend Developer,Казань,Middle,23,71891,41000,109000
+63,System Analyst,Казань,Senior,4,116000,60000,167000
+64,Data Scientist,Краснодар,Junior,7,39000,30000,53000
+64,Mobile Developer,Новосибирск,Middle,12,71417,44000,103000
+64,Data Engineer,Нижний Новгород,Senior,9,115667,76000,162000
+65,Full-stack Developer,Екатеринбург,Junior,8,38938,30000,54000
+65,Data Analyst,Новосибирск,Lead,4,149000,94000,215000
+65,Full-stack Developer,Екатеринбург,Middle,12,71125,45000,116000
+65,System Analyst,Екатеринбург,Senior,7,114286,76000,162000
+66,Frontend Developer,Екатеринбург,Junior,11,38909,30000,55000
+66,Data Engineer,Краснодар,Lead,3,148667,105000,188000
+66,Product Manager,Краснодар,Middle,6,71083,61000,91000
+66,Mobile Developer,Нижний Новгород,Senior,10,114250,81000,175000
+67,Product Manager,Краснодар,Junior,5,38900,30000,51000
+67,Product Manager,Казань,Lead,1,148500,132000,165000
+67,Data Engineer,Нижний Новгород,Middle,11,70773,48000,97000
+67,Data Analyst,Екатеринбург,Senior,8,113938,77000,159000
+68,Product Manager,Нижний Новгород,Junior,4,38875,30000,51000
+68,Data Engineer,Новосибирск,Lead,1,147000,127000,167000
+68,Full-stack Developer,Казань,Middle,12,70125,50000,97000
+68,Backend Developer,Казань,Senior,16,113094,74000,164000
+69,Full-stack Developer,Нижний Новгород,Junior,7,38857,30000,55000
+69,Mobile Developer,Нижний Новгород,Lead,2,145500,106000,190000
+69,Frontend Developer,Новосибирск,Middle,19,69658,48000,113000
+69,DevOps Engineer,Краснодар,Senior,8,112750,77000,178000
+70,System Analyst,Казань,Junior,10,38450,30000,48000
+70,Data Scientist,Нижний Новгород,Lead,1,144500,127000,162000
+70,Mobile Developer,Нижний Новгород,Middle,8,69313,50000,100000
+70,Backend Developer,Краснодар,Senior,11,112364,67000,170000
+71,Data Analyst,Екатеринбург,Junior,13,38308,30000,54000
+71,System Analyst,Новосибирск,Lead,4,144000,106000,181000
+71,Data Engineer,Краснодар,Middle,13,69192,48000,94000
+71,Frontend Developer,Казань,Senior,8,112000,71000,172000
+72,Mobile Developer,Казань,Junior,7,38000,30000,54000
+72,Mobile Developer,Краснодар,Lead,3,143167,85000,207000
+72,Data Scientist,Краснодар,Middle,13,69038,43000,107000
+72,Full-stack Developer,Новосибирск,Senior,8,111813,79000,139000
+73,Backend Developer,Краснодар,Junior,7,37929,30000,61000
+73,Backend Developer,Нижний Новгород,Lead,3,140333,118000,174000
+73,Mobile Developer,Казань,Middle,10,68300,46000,107000
+73,QA Engineer,Санкт-Петербург,Senior,15,110633,79000,148000
+74,System Analyst,Екатеринбург,Junior,4,37875,30000,46000
+74,Frontend Developer,Нижний Новгород,Lead,2,140000,114000,166000
+74,Full-stack Developer,Нижний Новгород,Middle,13,68154,46000,104000
+74,Frontend Developer,Новосибирск,Senior,16,110531,76000,158000
+75,Full-stack Developer,Казань,Junior,7,37857,30000,48000
+75,Product Manager,Краснодар,Lead,2,139750,101000,178000
+75,Full-stack Developer,Краснодар,Middle,6,67750,45000,96000
+75,Mobile Developer,Краснодар,Senior,4,110250,90000,132000
+76,Mobile Developer,Краснодар,Junior,7,37714,30000,57000
+76,DevOps Engineer,Нижний Новгород,Lead,2,137500,119000,153000
+76,System Analyst,Новосибирск,Middle,16,67438,43000,101000
+76,Backend Developer,Нижний Новгород,Senior,15,110067,67000,158000
+77,Mobile Developer,Нижний Новгород,Junior,7,37571,30000,47000
+77,Full-stack Developer,Новосибирск,Lead,1,135000,117000,153000
+77,Data Analyst,Новосибирск,Middle,18,66722,44000,97000
+77,Mobile Developer,Казань,Senior,2,110000,73000,150000
+78,ML Engineer,Казань,Junior,4,37375,30000,45000
+78,Frontend Developer,Новосибирск,Lead,2,133000,110000,163000
+78,Data Analyst,Нижний Новгород,Lead,1,133000,120000,146000
+78,Frontend Developer,Екатеринбург,Middle,21,66381,43000,102000
+78,Backend Developer,Екатеринбург,Senior,13,109731,66000,169000
+79,Frontend Developer,Новосибирск,Junior,16,37344,30000,62000
+79,Backend Developer,Краснодар,Middle,15,66200,43000,94000
+79,Frontend Developer,Екатеринбург,Senior,16,109156,67000,169000
+80,System Analyst,Нижний Новгород,Junior,6,37250,30000,46000
+80,Mobile Developer,Казань,Lead,2,132750,118000,150000
+80,System Analyst,Нижний Новгород,Middle,7,65857,41000,103000
+80,Full-stack Developer,Нижний Новгород,Senior,11,108182,63000,170000
+81,System Analyst,Краснодар,Junior,2,37000,30000,43000
+81,DevOps Engineer,Краснодар,Lead,1,130500,120000,141000
+81,System Analyst,Екатеринбург,Middle,8,64375,38000,87000
+81,Frontend Developer,Краснодар,Senior,7,107857,79000,149000
+82,Full-stack Developer,Краснодар,Junior,7,36714,30000,49000
+82,Frontend Developer,Казань,Lead,5,128100,88000,199000
+82,Data Analyst,Казань,Middle,12,63833,41000,84000
+82,Data Analyst,Новосибирск,Senior,7,106929,73000,150000
+83,Data Analyst,Новосибирск,Junior,17,36353,30000,56000
+83,System Analyst,Нижний Новгород,Lead,2,127500,111000,146000
+83,Frontend Developer,Нижний Новгород,Middle,8,61938,46000,78000
+83,System Analyst,Новосибирск,Senior,6,106583,66000,158000
+84,Data Analyst,Нижний Новгород,Junior,16,36188,30000,47000
+84,Data Analyst,Екатеринбург,Lead,5,125000,84000,178000
+84,Data Analyst,Екатеринбург,Middle,21,61833,40000,90000
+84,Data Analyst,Казань,Senior,16,102469,64000,151000
+85,Frontend Developer,Казань,Junior,15,36000,30000,48000
+85,Backend Developer,Краснодар,Lead,2,124500,90000,163000
+85,Mobile Developer,Краснодар,Middle,13,60769,39000,91000
+85,System Analyst,Нижний Новгород,Senior,5,102400,76000,148000
+86,Data Analyst,Казань,Junior,7,35857,30000,44000
+86,QA Engineer,Нижний Новгород,Lead,3,123833,97000,160000
+86,Data Analyst,Нижний Новгород,Middle,11,59227,38000,90000
+86,Product Manager,Краснодар,Senior,6,98833,75000,124000
+87,System Analyst,Новосибирск,Junior,7,35714,30000,46000
+87,Data Analyst,Казань,Lead,4,122875,91000,154000
+87,System Analyst,Краснодар,Middle,6,59000,49000,70000
+87,Data Analyst,Нижний Новгород,Senior,12,97833,54000,164000
+88,Backend Developer,Нижний Новгород,Junior,6,35083,30000,43000
+88,Frontend Developer,Краснодар,Lead,3,122167,90000,159000
+88,System Analyst,Казань,Middle,16,58875,41000,92000
+88,Frontend Developer,Нижний Новгород,Senior,10,96700,68000,126000
+89,Frontend Developer,Нижний Новгород,Junior,10,35050,30000,44000
+89,QA Engineer,Казань,Lead,2,115250,100000,131000
+89,Frontend Developer,Казань,Middle,8,58563,42000,75000
+89,System Analyst,Краснодар,Senior,8,94125,52000,118000
+90,Frontend Developer,Краснодар,Junior,14,34643,30000,46000
+90,QA Engineer,Екатеринбург,Lead,2,112000,86000,148000
+90,Data Analyst,Краснодар,Middle,13,55692,40000,72000
+90,QA Engineer,Нижний Новгород,Senior,9,90111,68000,127000
+91,QA Engineer,Екатеринбург,Junior,10,34550,30000,40000
+91,QA Engineer,Краснодар,Lead,2,109500,81000,139000
+91,QA Engineer,Екатеринбург,Middle,14,54321,37000,78000
+91,QA Engineer,Казань,Senior,15,89333,63000,153000
+92,Data Analyst,Краснодар,Junior,10,34300,30000,46000
+92,QA Engineer,Новосибирск,Lead,6,109000,69000,164000
+92,QA Engineer,Новосибирск,Middle,12,54125,39000,73000
+92,QA Engineer,Новосибирск,Senior,14,86750,67000,115000
+93,QA Engineer,Новосибирск,Junior,15,34133,30000,40000
+93,Data Analyst,Краснодар,Lead,3,90333,76000,109000
+93,Frontend Developer,Краснодар,Middle,16,53031,38000,77000
+93,Data Analyst,Краснодар,Senior,7,83500,55000,115000
+94,QA Engineer,Краснодар,Junior,8,34125,30000,40000
+94,QA Engineer,Казань,Middle,20,52325,33000,76000
+94,QA Engineer,Екатеринбург,Senior,9,83222,57000,121000
+95,QA Engineer,Нижний Новгород,Junior,12,34042,30000,40000
+95,QA Engineer,Нижний Новгород,Middle,10,50500,30000,69000
+95,QA Engineer,Краснодар,Senior,8,71250,54000,93000
+96,QA Engineer,Казань,Junior,11,33773,30000,42000
+96,QA Engineer,Краснодар,Middle,13,45538,34000,63000
